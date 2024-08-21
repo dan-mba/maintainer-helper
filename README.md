@@ -1,3 +1,5 @@
+Project migrated to [EddieHubCommunity](https://github.com/EddieHubCommunity/maintainers-tool).
+
 # Maintainers Tool
 
 ## Purpose
